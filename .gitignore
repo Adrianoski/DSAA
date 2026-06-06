@@ -1,0 +1,14 @@
+# Dati (telemetria ESA-ADB, std, dataset RF, risultati)
+*.csv
+
+# Artefatti Python
+__pycache__/
+*.pyc
+
+# Output generati dalle run
+*.joblib
+*.npy
+*.png
+log_*.txt
+cpd_output_*/
+gain_distribution*
